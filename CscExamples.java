@@ -27,4 +27,20 @@ class CscExamples{
 	String getText(){
 		return text;
 	}
+	
+	void addQue(CscExamples Que){
+		
+	}
+	
+	void remQue(int qId){
+		
+	}
+	
+	void editQue(int qId){
+		
+	}
+	
+	public static void main(String[] args){
+		
+	}
 }
